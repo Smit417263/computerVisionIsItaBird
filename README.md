@@ -20,10 +20,13 @@ Kaggle Notebooks
 
 📊 Results
 MetricValueEpochs3Error Rate 5.8%  Accuracy 94.2%
+
 📁 How to Run
 
 Open the notebook in Kaggle
+
 Enable Internet in the notebook settings
+
 Click Run All
 
 🌱 What I Learned
